@@ -62,6 +62,7 @@ static修饰局部变量，是只修改该变量生命周期，不修改作用�
 因此，全局变量和函数具有全局性，使得它们在整个程序中可以被访问和调用，从而方便程序设计师在不同的函数之间进行数据共享和代码重用。
 
 **涉及到操作系统**：[C语言地址空间](https://www.geeksforgeeks.org/memory-layout-of-c-program/)
+
 ![不懂就点上方蓝色字体](https://media.geeksforgeeks.org/wp-content/uploads/memoryLayoutC.jpg)
 
 ### sizeof
@@ -81,5 +82,5 @@ printf("%d\n",sizeof int);
 error: expected expression before 'int'
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE4OTk1ODldfQ==
+eyJoaXN0b3J5IjpbODk0MzIzODUzLC0xNjAxODk5NTg5XX0=
 -->
